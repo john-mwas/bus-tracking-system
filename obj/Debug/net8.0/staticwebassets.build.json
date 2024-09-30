@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "li3jc/737xOObDtgwOkEWtmcmX1Q48pG7ij0WG+U5ac=",
+  "Source": "BusTrackingSystem",
+  "BasePath": "_content/BusTrackingSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BusTrackingSystem\\wwwroot",
+      "Source": "BusTrackingSystem",
+      "ContentRoot": "C:\\Users\\danya\\source\\repos\\BusTrackingSystem\\BusTrackingSystem\\wwwroot\\",
+      "BasePath": "_content/BusTrackingSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\danya\\source\\repos\\BusTrackingSystem\\BusTrackingSystem\\wwwroot\\Order_4.html",
+      "SourceId": "BusTrackingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\danya\\source\\repos\\BusTrackingSystem\\BusTrackingSystem\\wwwroot\\",
+      "BasePath": "_content/BusTrackingSystem",
+      "RelativePath": "Order_4.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Order_4.html"
+    },
+    {
+      "Identity": "C:\\Users\\danya\\source\\repos\\BusTrackingSystem\\BusTrackingSystem\\wwwroot\\OrderTemplate.html",
+      "SourceId": "BusTrackingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\danya\\source\\repos\\BusTrackingSystem\\BusTrackingSystem\\wwwroot\\",
+      "BasePath": "_content/BusTrackingSystem",
+      "RelativePath": "OrderTemplate.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\OrderTemplate.html"
+    }
+  ]
+}
